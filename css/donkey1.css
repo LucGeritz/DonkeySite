@@ -1,0 +1,6 @@
+@import "defs.cru";
+html{
+	font-family: verdana;
+	color: $(standardColor);
+	font-size:20px;
+}

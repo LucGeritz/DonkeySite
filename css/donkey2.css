@@ -1,0 +1,13 @@
+@import "defs.cru";
+blockquote{
+	color: $(quoteColor);
+	font-size: 1.2rem;
+	border: solid $(standardColor);	
+	border-width: 0 0 0 4px;
+	padding-left: 6px;
+}
+header{
+		padding: 15px;
+		background: url("../img/bg-front.png") fixed bottom repeat-x ,
+				url("../img/bg-sky.png") scroll top   ;
+}

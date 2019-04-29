@@ -1,0 +1,5 @@
+@set {
+  mainColor: #3323e0;
+  warningColor: #f73328;
+  quoteColor: #eee;
+} 

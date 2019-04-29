@@ -1,0 +1,78 @@
+{
+    "donkey1-min.css": {
+        "imports": [
+            "defs.cru"
+        ],
+        "datem_sum": 3106780067,
+        "options": {
+            "minify": true,
+            "output_dir": "c:\/xampp\/htdocs\/donkeysite\/cssmin\/",
+            "output_file": "donkey1-min",
+            "formatter": null,
+            "versioning": true,
+            "boilerplate": true,
+            "vars": [],
+            "cache": true,
+            "context": null,
+            "asset_dir": null,
+            "doc_root": null,
+            "vendor_target": "all",
+            "rewrite_import_urls": true,
+            "plugins": null,
+            "settings": [],
+            "stat_dump": false,
+            "source_map": false,
+            "newlines": "use-platform"
+        }
+    },
+    "donkey2-min.css": {
+        "imports": [
+            "defs.cru"
+        ],
+        "datem_sum": 3106782435,
+        "options": {
+            "minify": true,
+            "output_dir": "c:\/xampp\/htdocs\/donkeysite\/cssmin\/",
+            "output_file": "donkey2-min",
+            "formatter": null,
+            "versioning": true,
+            "boilerplate": true,
+            "vars": [],
+            "cache": true,
+            "context": null,
+            "asset_dir": null,
+            "doc_root": null,
+            "vendor_target": "all",
+            "rewrite_import_urls": true,
+            "plugins": null,
+            "settings": [],
+            "stat_dump": false,
+            "source_map": false,
+            "newlines": "use-platform"
+        }
+    },
+    "donkey-min-min.css": {
+        "imports": [],
+        "datem_sum": 1550996434,
+        "options": {
+            "minify": true,
+            "output_dir": "c:\/xampp\/htdocs\/donkeysite\/cssmin\/",
+            "output_file": "donkey-min-min",
+            "formatter": null,
+            "versioning": true,
+            "boilerplate": true,
+            "vars": [],
+            "cache": true,
+            "context": null,
+            "asset_dir": null,
+            "doc_root": null,
+            "vendor_target": "all",
+            "rewrite_import_urls": true,
+            "plugins": null,
+            "settings": [],
+            "stat_dump": false,
+            "source_map": false,
+            "newlines": "use-platform"
+        }
+    }
+}
